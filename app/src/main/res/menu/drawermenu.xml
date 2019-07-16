@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/allw" android:title="All Excersices" />
+    <item android:id="@+id/wplan" android:title="Workout Plans"/>
+    <item android:id="@+id/nutC" android:title="Nutrition Chart"/>
+    <item android:id="@+id/bmiA" android:title="Check BMI"/>
+    <item android:id="@+id/dietC" android:title="Diet Chart"/>
+</menu>

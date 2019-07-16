@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "802997826990",
+    "firebase_url": "https://fitnessfreaks-8db33.firebaseio.com",
+    "project_id": "fitnessfreaks-8db33",
+    "storage_bucket": "fitnessfreaks-8db33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802997826990:android:7e1f534913287f3d",
+        "android_client_info": {
+          "package_name": "com.Draker.fitnessfury"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802997826990-ea7diaskm61i585t9tr4v56ibuem2f3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Draker.fitnessfury",
+            "certificate_hash": "cf170f8a816aa569af18a9c8218c6790c5b2cf5f"
+          }
+        },
+        {
+          "client_id": "802997826990-8b4ihdbg5nqjhq0uofueicjbgmvn2j2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzonSX-aVQK032ofFAk0vfmfKogAH1N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802997826990-nh3ahck34e48crl884mfjbqqc25nli5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802997826990:android:d6719064337cf437",
+        "android_client_info": {
+          "package_name": "com.Fitnessfury.fitnessfreaks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802997826990-vek31ktvs3gi532u27f2vfptssc1l5lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Fitnessfury.fitnessfreaks",
+            "certificate_hash": "cf170f8a816aa569af18a9c8218c6790c5b2cf5f"
+          }
+        },
+        {
+          "client_id": "802997826990-8b4ihdbg5nqjhq0uofueicjbgmvn2j2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzonSX-aVQK032ofFAk0vfmfKogAH1N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802997826990-nh3ahck34e48crl884mfjbqqc25nli5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802997826990:android:84ef3775aa2ee893",
+        "android_client_info": {
+          "package_name": "com.example.fitnessfreaks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802997826990-6j7n660hku4u9n2rtkj5h7qbe59g11hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnessfreaks",
+            "certificate_hash": "f081df85e6b0e02ea50cd469cf8cc9d7d67251f7"
+          }
+        },
+        {
+          "client_id": "802997826990-8b4ihdbg5nqjhq0uofueicjbgmvn2j2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzonSX-aVQK032ofFAk0vfmfKogAH1N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802997826990-nh3ahck34e48crl884mfjbqqc25nli5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abeezee</item>
+        <item>@font/aclonica</item>
+        <item>@font/arbutus</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/ewert</item>
+        <item>@font/nosifer</item>
+        <item>@font/nunito</item>
+        <item>@font/nunito_bold</item>
+        <item>@font/nunito_extralight</item>
+        <item>@font/wendy_one</item>
+    </array>
+</resources>
